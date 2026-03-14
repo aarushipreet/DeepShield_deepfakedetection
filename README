@@ -1,0 +1,14 @@
+# DeepShield – Deepfake Video Detection
+
+This project aims to detect deepfake videos using a hybrid CNN-LSTM deep learning architecture.
+
+Current Implementation:
+- Video preprocessing
+- Frame extraction
+- Dataset loading
+- CNN model prototype
+
+Future Work:
+- LSTM integration
+- Real-time detection
+- User interface
